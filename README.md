@@ -18,3 +18,5 @@
 | String Segmentation | Strings | JavaScript | [Source Code](/solutions/javascript/string-segmentation.js) |
 | Find All Palindrome Substrings | Strings | Python | [Source Code](/solutions/python/find-all-palindrome-substrings.py) |
 | Find All Palindrome Substrings | Strings | JavaScript | [Source Code](/solutions/javascript/find-all-palindrome-substrings.js) |
+| Largest Sum Subarray | Dynamic programming | Python | [Source Code](/solutions/python/largest-sum-subarry.py) |
+| Largest Sum Subarray | Dynamic programming | JavaScript | [Source Code](/solutions/javascript/largest-sum-subarry.js) |
