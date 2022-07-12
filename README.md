@@ -24,3 +24,5 @@
 | Is the Number Valid | Math and stats | JavaScript | [Source Code](/solutions/javascript/determine-if-the-number-is-valid.js) |
 | All Possible Braces | Backtracking | Python | [Source Code](/solutions/python/print-balanced-brace-combinations.py) |
 | All Possible Braces | Backtracking | JavaScript | [Source Code](/solutions/javascript/print-balanced-brace-combinations.js) |
+| Minimum Spanning Tree | Graphs | Python | [Source Code](/solutions/python/minimum-spanning-tree.py) |
+| Minimum Spanning Tree | Graphs | JavaScript | [Source Code](/solutions/javascript/minimum-spanning-tree.js) |
