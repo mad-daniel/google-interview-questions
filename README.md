@@ -14,3 +14,5 @@
 | Mirror Binary Tree Nodes | Trees | JavaScript | [Source Code](/solutions/javascript/mirror-binary-trees.js) |
 | Check if Two Binary Trees are Identical | Trees | Python | [Source Code](/solutions/python/check-if-two-binary-trees-are-identical.py) |
 | Check if Two Binary Trees are Identical | Trees | JavaScript | [Source Code](/solutions/javascript/check-if-two-binary-trees-are-identical.js) |
+| String Segmentation | Strings | Python | [Source Code](/solutions/python/string-segmentation.py) |
+| String Segmentation | Strings | JavaScript | [Source Code](/solutions/javascript/string-segmentation.js) |
