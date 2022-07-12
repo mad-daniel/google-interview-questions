@@ -1,7 +1,5 @@
 # Google interview questions
 
-# Coding interview questions
-
 |  | Category | Language | Solution |
 | --- | --- | --- | --- |
 | Sum of two values | Arrays | Python | [Source Code](/solutions/python/sum-of-two-values.py) |
