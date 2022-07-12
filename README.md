@@ -12,3 +12,5 @@
 | Copy Linked List with Arbitrary Pointer | Linked lists | JavaScript | [Source Code](/solutions/javascript/copy-linked-list-with-arbitrary-pointer.js) |
 | Mirror Binary Tree Nodes | Trees | Python | [Source Code](/solutions/python/mirror-binary-trees.py) |
 | Mirror Binary Tree Nodes | Trees | JavaScript | [Source Code](/solutions/javascript/mirror-binary-trees.js) |
+| Check if Two Binary Trees are Identical | Trees | Python | [Source Code](/solutions/python/check-if-two-binary-trees-are-identical.py) |
+| Check if Two Binary Trees are Identical | Trees | JavaScript | [Source Code](/solutions/javascript/check-if-two-binary-trees-are-identical.js) |
