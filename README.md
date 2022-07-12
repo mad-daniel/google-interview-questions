@@ -26,3 +26,5 @@
 | All Possible Braces | Backtracking | JavaScript | [Source Code](/solutions/javascript/print-balanced-brace-combinations.js) |
 | Minimum Spanning Tree | Graphs | Python | [Source Code](/solutions/python/minimum-spanning-tree.py) |
 | Minimum Spanning Tree | Graphs | JavaScript | [Source Code](/solutions/javascript/minimum-spanning-tree.js) |
+| Find Low/High Index | Sorting and searching | Python | [Source Code](/solutions/python/find-low-high-index.py) |
+| Find Low/High Index | Sorting and searching | JavaScript | [Source Code](/solutions/javascript/find-low-high-index.js) |
