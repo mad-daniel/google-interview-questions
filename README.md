@@ -10,3 +10,5 @@
 | Delete Node with a Given Key | Linked lists | JavaScript | [Source Code](/solutions/javascript//delete-node-with-given-key.js) |
 | Copy Linked List with Arbitrary Pointer | Linked lists | Python | [Source Code](/solutions/python/copy-linked-list-with-arbitrary-pointer.py) |
 | Copy Linked List with Arbitrary Pointer | Linked lists | JavaScript | [Source Code](/solutions/javascript/copy-linked-list-with-arbitrary-pointer.js) |
+| Mirror Binary Tree Nodes | Trees | Python | [Source Code](/solutions/python/mirror-binary-trees.py) |
+| Mirror Binary Tree Nodes | Trees | JavaScript | [Source Code](/solutions/javascript/mirror-binary-trees.js) |
