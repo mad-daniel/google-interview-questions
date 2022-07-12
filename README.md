@@ -8,3 +8,5 @@
 | Move zeros to the left  | Arrays | JavaScript | [Source Code](/solutions/javascript/move-zeros-to-the-left.js) |
 | Delete Node with a Given Key | Linked lists | Python | [Source Code](/solutions/python/delete-node-with-given-key.py) |
 | Delete Node with a Given Key | Linked lists | JavaScript | [Source Code](/solutions/javascript//delete-node-with-given-key.js) |
+| Copy Linked List with Arbitrary Pointer | Linked lists | Python | [Source Code](/solutions/python/copy-linked-list-with-arbitrary-pointer.py) |
+| Copy Linked List with Arbitrary Pointer | Linked lists | JavaScript | [Source Code](/solutions/javascript/copy-linked-list-with-arbitrary-pointer.js) |
