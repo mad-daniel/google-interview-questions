@@ -22,3 +22,5 @@
 | Largest Sum Subarray | Dynamic programming | JavaScript | [Source Code](/solutions/javascript/largest-sum-subarry.js) |
 | Is the Number Valid | Math and stats | Python | [Source Code](/solutions/python/determine-if-the-number-is-valid.py) |
 | Is the Number Valid | Math and stats | JavaScript | [Source Code](/solutions/javascript/determine-if-the-number-is-valid.js) |
+| All Possible Braces | Backtracking | Python | [Source Code](/solutions/python/print-balanced-brace-combinations.py) |
+| All Possible Braces | Backtracking | JavaScript | [Source Code](/solutions/javascript/print-balanced-brace-combinations.js) |
