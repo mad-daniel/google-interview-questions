@@ -16,3 +16,5 @@
 | Check if Two Binary Trees are Identical | Trees | JavaScript | [Source Code](/solutions/javascript/check-if-two-binary-trees-are-identical.js) |
 | String Segmentation | Strings | Python | [Source Code](/solutions/python/string-segmentation.py) |
 | String Segmentation | Strings | JavaScript | [Source Code](/solutions/javascript/string-segmentation.js) |
+| Find All Palindrome Substrings | Strings | Python | [Source Code](/solutions/python/find-all-palindrome-substrings.py) |
+| Find All Palindrome Substrings | Strings | JavaScript | [Source Code](/solutions/javascript/find-all-palindrome-substrings.js) |
