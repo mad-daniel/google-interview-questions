@@ -20,3 +20,5 @@
 | Find All Palindrome Substrings | Strings | JavaScript | [Source Code](/solutions/javascript/find-all-palindrome-substrings.js) |
 | Largest Sum Subarray | Dynamic programming | Python | [Source Code](/solutions/python/largest-sum-subarry.py) |
 | Largest Sum Subarray | Dynamic programming | JavaScript | [Source Code](/solutions/javascript/largest-sum-subarry.js) |
+| Is the Number Valid | Math and stats | Python | [Source Code](/solutions/python/determine-if-the-number-is-valid.py) |
+| Is the Number Valid | Math and stats | JavaScript | [Source Code](/solutions/javascript/determine-if-the-number-is-valid.js) |
