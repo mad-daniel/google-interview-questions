@@ -28,3 +28,5 @@
 | Minimum Spanning Tree | Graphs | JavaScript | [Source Code](/solutions/javascript/minimum-spanning-tree.js) |
 | Find Low/High Index | Sorting and searching | Python | [Source Code](/solutions/python/find-low-high-index.py) |
 | Find Low/High Index | Sorting and searching | JavaScript | [Source Code](/solutions/javascript/find-low-high-index.js) |
+| Merge Overlapping Intervals | Sorting and searching | Python | [Source Code](/solutions/python/merge-overlapping-intervals.py) |
+| Merge Overlapping Intervals | Sorting and searching | JavaScript | [Source Code](/solutions/javascript/merge-overlapping-intervals.js) |
